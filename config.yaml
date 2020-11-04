@@ -4,8 +4,8 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://spencerlyon.com/hugo_gh_blog"
-title: "Hugo Blog Template for GitHub Pages"
+baseurl: "https://endowl.github.io/blog/"
+title: "Endowl Blog"
 canonifyurls: true
 theme: "Lanyon"
 ...
